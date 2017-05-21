@@ -4,7 +4,7 @@ Flask-Fixtures
 
 A fixtures library for testing Flask apps.
 """
-from __future__ import absolute_import
+
 
 import os
 import subprocess

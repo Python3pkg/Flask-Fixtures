@@ -1,4 +1,4 @@
-from __future__ import absolute_import
+
 # myapp/models.py
 
 from flask_sqlalchemy import SQLAlchemy
